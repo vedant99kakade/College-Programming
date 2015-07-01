@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<TENNIS>
+	<row id="1">
+            <name>sneha</name>
+            <height>5.6</height>
+            <weight>56</weight>
+            <gender>female</gender>
+	</row>
+	<row id="2">
+            <name>ajay</name>
+            <height>5.8</height>
+            <weight>65</weight>
+            <gender>male</gender>
+	</row>
+        <row id="3">
+            <name>shital</name>
+            <height>5.2</height>
+            <weight>56</weight>
+            <gender>female</gender>
+	</row>
+        <row id="4">
+            <name>kiran</name>
+            <height>5.8</height>
+            <weight>59</weight>
+            <gender>male</gender>
+	</row>
+        <row id="5">
+            <name>kiran</name>
+            <height>5.6</height>
+            <weight>56</weight>
+            <gender>female</gender>
+	</row>
+</TENNIS>
