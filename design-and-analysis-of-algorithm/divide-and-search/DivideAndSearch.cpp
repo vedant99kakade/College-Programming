@@ -1,5 +1,5 @@
 /*
-*  Divide and Search Algorithm
+*  Divide and Search Algorithm for Binary Tree
 *  Input e.g. 0 1 2 3 4 5 6 7
 */
 
