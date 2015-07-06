@@ -67,7 +67,7 @@ public class QuickSort {
 
 
 	System.out.println();
-	System.out.print("Entrered Elements : ");
+	System.out.print("Entered Elements : ");
 	i = 0;
 	while(i<10){
 
