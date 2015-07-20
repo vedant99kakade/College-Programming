@@ -17,7 +17,7 @@ public class MultiCollection {
 		return shiftList;
 	}
 	
-	public static Long getMultiplication(Long firstNumberBin,
+	public static Long getMultiplication(Long firstNumber,
 			List<Integer> secondNumber) {
 
 		Long result = 0l;
@@ -39,7 +39,7 @@ public class MultiCollection {
 		for(int i=0; i<shiftList.size(); i++){
 			
 			int shiftBy = shiftList.get(i);
-			result += firstNumberBin << shiftBy;
+			result += firstNumber << shiftBy;
 			
 		}
 		
