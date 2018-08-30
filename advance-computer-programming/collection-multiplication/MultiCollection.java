@@ -71,7 +71,7 @@ public class MultiCollection {
 		}
 
 		System.out.println();
-		System.out.print("Multiplication : ");
+		System.out.print("Multiplication :");
 		System.out.print(getMultiplication(numberOne, listTwo));
 	}
 }
